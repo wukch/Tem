@@ -1,0 +1,2 @@
+/home/hearter/miniconda3
+/home/hearter/miniconda3/envs/your_env_name

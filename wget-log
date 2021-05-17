@@ -1,0 +1,20 @@
+--2021-05-17 22:09:16--  https://github.com/wukch/HW3/find/main/data.zip
+Resolving github.com (github.com)... 13.250.177.223
+Connecting to github.com (github.com)|13.250.177.223|:443... failed: Resource temporarily unavailable.
+Retrying.
+
+--2021-05-17 22:09:43--  (try: 2)  https://github.com/wukch/HW3/find/main/data.zip
+Connecting to github.com (github.com)|13.250.177.223|:443... failed: Resource temporarily unavailable.
+Retrying.
+
+--2021-05-17 22:10:06--  (try: 3)  https://github.com/wukch/HW3/find/main/data.zip
+Connecting to github.com (github.com)|13.250.177.223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘data.zip’
+
+     0K .......... .......... .......... .......... ..........  140K
+    50K .......... .......... .......                          76.5K=0.7s
+
+2021-05-17 23:04:59 (108 KB/s) - ‘data.zip’ saved [79139]
+
